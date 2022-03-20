@@ -1,4 +1,3 @@
-# Personal-Website
-Get to know me
+# MyFridgeReceipt
 
-My website link: https://huynguyenuta.github.io/
+
